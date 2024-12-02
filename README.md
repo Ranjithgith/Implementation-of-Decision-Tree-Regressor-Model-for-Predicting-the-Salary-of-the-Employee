@@ -1,4 +1,3 @@
-![exp 9 1](https://github.com/user-attachments/assets/49cd475f-ad86-4cf5-ac25-40238e4b2933)# Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee
 
 ## AIM:
 To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
